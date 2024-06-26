@@ -8,7 +8,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#Usage">Usage</a> •
-  <a href="##Examples">Example</a> •
+  <a href="#Examples (for Screenshot)">Example</a> •
   <a href="#Library ">Library</a> •
   <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A">Join Youtube</a>
 </p>
