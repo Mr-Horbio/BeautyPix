@@ -5,6 +5,10 @@
 
 <h4 align="center">Fast capturing screenshots and merging files tool.</h4>
 <p align="center">
+  <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A" ><img src = "https://img.shields.io/badge/Join-Youtube-blue"></a>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#installation">Install</a> •
   <a href="#Usage">Usage</a> •
