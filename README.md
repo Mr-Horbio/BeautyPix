@@ -21,7 +21,12 @@
 BeautyPix is a versatile tool designed to enhance web security and data management by capturing screenshots of subdomains and merging files while eliminating duplicate entries. It streamlines the process of visual verification and data consolidation, making it an essential utility for web developers, security analysts, and data managers.
 
 ## Features
-1. **Screenshot Capture:** 
+<h1 align="left">
+  <img src="static/Beautypix-run.png" alt="subfinder" width="700px"></a>
+  <br>
+</h1>
+
+1. **Screenshot Capture:**
 Automatically takes screenshots of specified subdomains, allowing users to visually verify the content and appearance of multiple web pages. The screenshots are saved in a designated directory with a clear, organized naming convention.
 
 2. **File Merging**: 
@@ -39,21 +44,44 @@ pip install -r requirements.txt
 
 ```
 # Usage
+```sh
+python beautypix.py -h
 
 ```
+
+This will display help for the tool. Here are all the switches it supports.
+
+```yaml
+usage: beautypix.py [-h] [-V] {screenshot,merge} ...
+
+Usages of HorbiPix
+
+positional arguments:
+  {screenshot,merge}
+    screenshot        Take screenshots of subdomains
+    merge             Merge two files and remove duplicates
+
+options:
+  -h, --help          show this help message and exit
+  -V                  Print version
+```
+
+```sh
 #for screenshot
-python beautypix.py screenshot -p <subdomains.txt> 
+$ python beautypix.py screenshot -h
+$ python beautypix.py screenshot -p <subdomains.txt> 
 ```
-```
+```sh
 #for merge files
-python beautypix.py merge -f file1.txt file2.txt
+$ python beautypix.py merge -h
+$ python beautypix.py merge -f file1.txt file2.txt
 ```
 # Examples (for Screenshot)
-```
+```sh
 $ python beautypix.py screenshot -p domainlist.txt -t 2
 ```
 ### (Merge two file)
-```
+```yaml
 $ cat file1.txt
   1
   2
