@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/Beautypix-logo.png" alt="Beautypix" width="200px">
+  <img src="static/BeautyPix-logo.png" alt="Beautypix" width="200px">
   <br>
 </h1>
 
@@ -27,7 +27,7 @@ BeautyPix is a versatile tool designed to enhance web security and data manageme
 
 ## Features
 <h1 align="left">
-  <img src="static/Beautypix-run.png" alt="subfinder" width="700px"></a>
+  <img src="static/Beautypix-run.png" alt="Beautypix" width="700px"></a>
   <br>
 </h1>
 
