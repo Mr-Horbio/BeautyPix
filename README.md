@@ -9,7 +9,7 @@
   <a href="#installation">Install</a> •
   <a href="#running-subfinder">Usage</a> •
   <a href="#post-installation-instructions">API Setup</a> •
-  <a href="#subfinder-go-library">Library</a> •
+  <a href="#Library ">Library</a> •
   <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A">Join Youtube</a>
 </p>
 
