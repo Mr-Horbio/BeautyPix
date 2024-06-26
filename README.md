@@ -10,7 +10,7 @@
   <a href="#running-subfinder">Usage</a> •
   <a href="#post-installation-instructions">API Setup</a> •
   <a href="#subfinder-go-library">Library</a> •
-  <a href="https://discord.gg/projectdiscovery">Join Discord</a>
+  <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A">Join Youtube</a>
 </p>
 
 ---
@@ -79,4 +79,14 @@ $ cat merged.txt
   8
   9
 ```
+# Library 
+Beautypix use python libraries:
+- Selenium
+- requests
+- pyfiglet
+- argparser
+- sys
+- os
+- re
+- time
 
