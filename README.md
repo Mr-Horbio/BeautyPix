@@ -49,7 +49,7 @@ python beautypix.py screenshot -p <subdomains.txt>
 #for merge files
 python beautypix.py merge -f file1.txt file2.txt
 ```
-## Examples (for Screenshot)
+# Examples (for Screenshot)
 ```
 $ python beautypix.py screenshot -p domainlist.txt -t 2
 ```
