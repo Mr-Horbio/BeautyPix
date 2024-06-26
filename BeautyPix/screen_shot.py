@@ -43,7 +43,9 @@ def browser(file_path,time_out ):
         if domain.startswith("https") or domain.startswith("http"):
             url = domain
         else:
-            url = f"https://{domain}/"
+            print("It does not start with http or https")
+            print("example: https://abc.com/")
+            quit()
 
         # File name for save each images 
         file_name = re.sub(pattern,' ', url)
