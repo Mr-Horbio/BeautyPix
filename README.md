@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/BeautyPix-logo.png" alt="Beautypix" width="200px">
+  <img src="static/BeautyPix-logo.png" alt="Beautypix" width="500px">
   <br>
 </h1>
 
