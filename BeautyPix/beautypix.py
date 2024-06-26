@@ -9,7 +9,7 @@ f = pyfiglet.figlet_format("BeautyPIX")
 print(f)
 
 # Set up the main parser
-parser = argparse.ArgumentParser(description='Usages of HorbiPix', epilog="")
+parser = argparse.ArgumentParser(description='Usages of BeautyPix', epilog="created by Mr.Horbio")
 
 # Add subparsers for different commands
 subparsers = parser.add_subparsers(dest='command')
