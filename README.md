@@ -59,7 +59,7 @@ This will display help for the tool. Here are all the switches it supports.
 ```yaml
 usage: beautypix.py [-h] [-V] {screenshot,merge} ...
 
-Usages of HorbiPix
+Usages of Beautypix
 
 positional arguments:
   {screenshot,merge}
