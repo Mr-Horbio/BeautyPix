@@ -1,3 +1,23 @@
+<h1 align="center">
+  <img src="static/Beautypix-logo.png" alt="Beautypix" width="200px">
+  <br>
+</h1>
+
+<h4 align="center">Fast capturing screenshots and merging files tool.</h4>
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Install</a> •
+  <a href="#running-subfinder">Usage</a> •
+  <a href="#post-installation-instructions">API Setup</a> •
+  <a href="#subfinder-go-library">Library</a> •
+  <a href="https://discord.gg/projectdiscovery">Join Discord</a>
+</p>
+
+---
+
+
+
+
 # BeautyPix
 BeautyPix is a versatile tool designed to enhance web security and data management by capturing screenshots of subdomains and merging files while eliminating duplicate entries. It streamlines the process of visual verification and data consolidation, making it an essential utility for web developers, security analysts, and data managers.
 
