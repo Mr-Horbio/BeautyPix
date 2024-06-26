@@ -9,7 +9,8 @@
   <a href="#installation">Install</a> •
   <a href="#Usage">Usage</a> •
   <a href="#Library ">Library</a> •
-  <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A">Join Youtube</a>
+  <a href="https://www.youtube.com/channel/UCBiIg0P8onz7EZgXNhjpR4A">Join Youtube</a> •
+  <a href="#Report">Bug Report </a> 
 </p>
 
 ---
@@ -117,3 +118,5 @@ Beautypix use python libraries:
 - re
 - time
 
+# Report
+Report Bug on horbio222@gmail.com
