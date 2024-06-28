@@ -7,6 +7,7 @@ from merge import merge_files
 # LOGO FOR CLI
 f = pyfiglet.figlet_format("BeautyPIX")
 print(f)
+print("By Mr.Horbio")
 
 # Set up the main parser
 parser = argparse.ArgumentParser(description='Usages of BeautyPix', epilog="created by Mr.Horbio")
